@@ -1,4 +1,3 @@
-# PathPlanning_TruckTrailorSystem
-Project for the lecture Automotive Control Systems building an autonomous truck trailor system including Path Planning, Trajectory Generation and Control
+# Path Planning Truck Trailor System
 
-For this system create a stabilizing feedback control using the flatness approach.Matlabfunctions to calculate the Lie derivatives and fourth order derivative of the reference coordinate subject to the arc length are provided. Also a function, that calculates the derivatives of the path polynomial given the initial or final truck/trailer configuration. It is recommended to use a 7thorder polynomial for the path.It is also recommended to first use the open loop variant for testing.The results have to be properly documented in a selfcontainingand scientifically well written report. The grading is based on validation of robustness, quality of code, visualisationand documentation.
+For this system, we create a stabilizing feedback control to track a trajectory in reverse direction. 
