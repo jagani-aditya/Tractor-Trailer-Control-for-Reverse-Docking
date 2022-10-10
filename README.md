@@ -26,7 +26,7 @@ The number of degrees of freedom are more than the number of states, hence, our 
 
 ## Implementation
  
-Navigate to the ```MTT-System-GNN-Tracker``` folder
+Navigate to the ```Tractor-Trailer-Control-for-Reverse-Docking``` folder
 
 Open ```main.m``` file and ```RUN``` it in MATLAB workspace.
 
